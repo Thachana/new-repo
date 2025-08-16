@@ -5,3 +5,7 @@
 
 "This is megre from both branch"
 
+This is a new file 
+
+The peak era
+
